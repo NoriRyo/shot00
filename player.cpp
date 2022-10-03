@@ -43,6 +43,7 @@ void Player::update()
 	}
 	else
 	{
+		// ‰Á‘¬
 		m_vec.y *= 0.9f;
 	}
 	if (padState & PAD_INPUT_LEFT)
